@@ -1,5 +1,9 @@
 [book]
-authors = []
-language = "en"
+title = "Bunpo Notes"
+authors = ["Boyin Chen"]
+language = "zh-cn"
 multilingual = false
 src = "src"
+
+[build]
+create-missing = true
