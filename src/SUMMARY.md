@@ -37,7 +37,7 @@
     - [その他](content/25-sonohoka.md)
 
 - [第三章]()
-  - [文法化、形式体言](content/26-bunpouka.md)
+  - [文法化](content/26-bunpouka.md)
   - [形式体言](content/26-keishikitaigen.md)
     - [の、こと](content/27-28-no-koto.md)
     - [もの](content/29-30-mono.md)
