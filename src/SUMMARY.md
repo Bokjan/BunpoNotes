@@ -28,7 +28,7 @@
   - [様態・伝聞・推定・比況](content/19-youtai-denbun-suitei-hikyou.md)
   - [感情形容詞・形容動詞、希望](content/20-kanjou-keiyoushi-keiyoudoushi-kibou.md)
   - [使い方に注意すべき用言](content/21-tsukaikatani-chuuisubeki-yougenn.md)
-  - [接続助詞](content/22-25-setsuzokujoshi.md)
+  - [接続助詞](content/22-setsuzokujoshi.md)
     - [順接](content/22-junnsetsu.md)
     - [逆接](content/23-gyakusetsu.md)
     - [並立](content/24-heiritsu.md)
