@@ -134,5 +134,5 @@
 -----------
 
 [附录A 原课程对照链接](appendix/course-note-mapping.md)
-[附录B 用言活用表]()
-[附录C 助动词表]()
+[附录B 用言活用表](appendix/katsuyou.md)
+[附录C 助动词表](appendix/jodoushi.md)

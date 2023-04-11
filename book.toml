@@ -7,3 +7,6 @@ src = "src"
 
 [build]
 create-missing = true
+
+[output.html.search]
+enable = false
