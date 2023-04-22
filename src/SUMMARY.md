@@ -1,17 +1,17 @@
 # Summary
 
-[序文](prelude.md)
+[引言](foreword.md)
 
 -----------
 
 - [第一章]()
+  - [品詞](content/00-A-hinshi.md)
   - [名詞](content/01-meishi.md)
   - [代名詞]()
     - [指示代名詞　Ⅰ](content/02-shijidaimeishi-1.md)
     - [人称代名詞](content/03-ninshoudaimeishi.md)
-  - [形容詞 TODO](content/04-keiyoushi.md)
-  - [形容動詞 TODO](content/04-keiyoudoushi.md)
-  - [動詞の構造と分類 TODO](content/05-doushi-no-kouzou-to-bunrui.md)
+  - [形容詞、形容動詞](content/04-keiyoushi-keiyoudoushi.md)
+  - [動詞の構造と分類](content/05-doushi-no-kouzou-to-bunrui.md)
   - [格助詞](content/06-07-kakujoshi.md)
   - [動詞の未然形とその使い方](content/08-doushi-no-mizenkei.md)
   - [動詞の連用形とその使い方](content/09-doushi-no-rennyoukei.md)
@@ -127,9 +127,7 @@
   - [格の階層性と交替](content/96-kaku-no-kaisoukei-to-koutai.md)
   - [視点と視点の一貫性](content/97-shiten-to-shiten-no-ikkansei.md)
   - [拾遺](content/98-99-shuui.md)
-  
-  
-  
+
 
 -----------
 
