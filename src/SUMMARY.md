@@ -8,7 +8,7 @@
   - [品詞](content/00-A-hinshi.md)
   - [名詞](content/01-meishi.md)
   - [代名詞]()
-    - [指示代名詞　Ⅰ](content/02-shijidaimeishi-1.md)
+    - [指示詞　Ⅰ](content/02-shijishi-1.md)
     - [人称代名詞](content/03-ninshoudaimeishi.md)
   - [形容詞、形容動詞](content/04-keiyoushi-keiyoudoushi.md)
   - [動詞の構造と分類](content/05-doushi-no-kouzou-to-bunrui.md)
@@ -121,7 +121,7 @@
   
 - [第七章]()
   - [現代に生きる古典日本語](content/91-gendaini-ikiru-koten-nihongo.md)
-  - [指示代名詞　Ⅱ](content/94-shijidaimeishi-2.md)
+  - [指示詞　Ⅱ](content/94-shijishi-2.md)
   - [「は」と「が」の使い分け](content/95-ha-to-ga-no-tsukaiwake.md)
   - [象鼻文・うなぎ文・コンニャク文](content/95-zoubibun-unagibun-konnyakubun.md)
   - [格の階層性と交替](content/96-kaku-no-kaisoukei-to-koutai.md)

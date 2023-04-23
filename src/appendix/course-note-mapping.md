@@ -3,7 +3,7 @@
 由于本笔记并非与原课程顺序完全一致，此处列出原始课程的对应章节，便于对照观看。
 
 1. [名词谓语句](../content/01-meishi.md)
-2. [指示代词](../content/02-shijidaimeishi-1.md)
+2. [指示代词](../content/02-shijishi-1.md)
 3. [人称代词](../content/03-ninshoudaimeishi.md)
 4. [形容词、形容动词](../content/04-keiyoushi-keiyoudoushi.md)
 5. [动词的构成与分类](../content/05-doushi-no-kouzou-to-bunrui.md)
@@ -95,7 +95,7 @@
 91. [现代日语中还在使用的古语表达](../content/91-gendaini-ikiru-koten-nihongo.md)
 92. [句法相关复合动词补充、惯用固定搭配](../content/92-tougoteki-fukugoudoushi-kanyouteki-hyougen.md)
 93. [副词、接续词、独立词](../content/93-fukushi-setsuzokushi-dokuritsugo.md)
-94. [指示代词（2）](../content/94-shijidaimeishi-2.md)
+94. [指示代词（2）](../content/94-shijishi-2.md)
 95. [「は」「が」的区别使用](../content/95-ha-to-ga-no-tsukaiwake.md)、[三类特殊的句子](../content/95-zoubibun-unagibun-konnyakubun.md)
 96. [格的阶层性、格的交替](../content/96-kaku-no-kaisoukei-to-koutai.md)
 97. [视点与视点的一贯性](../content/97-shiten-to-shiten-no-ikkansei.md)
