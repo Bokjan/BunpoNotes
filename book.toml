@@ -9,4 +9,7 @@ src = "src"
 create-missing = true
 
 [output.html.search]
-enable = false
+enable = true
+
+[output.html]
+additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
