@@ -1,7 +1,7 @@
 [book]
 title = "Bunpō Notes"
 authors = ["Boyin Chen"]
-language = "zh-cn"
+language = "zh-Hans"
 multilingual = false
 src = "src"
 
@@ -10,6 +10,3 @@ create-missing = true
 
 [output.html.search]
 enable = true
-
-[output.html]
-additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
